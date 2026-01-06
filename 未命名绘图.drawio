@@ -100,11 +100,14 @@
             <mxPoint x="380" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-48" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-48" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" value="" vertex="1">
           <mxGeometry height="107" width="107" x="112" y="24" as="geometry" />
         </mxCell>
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-49" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="107" width="107" x="380" y="21" as="geometry" />
+        </mxCell>
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RL Agent" vertex="1">
+          <mxGeometry height="14" width="110" x="110" y="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
