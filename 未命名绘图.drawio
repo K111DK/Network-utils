@@ -139,12 +139,6 @@
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RL Agent" vertex="1">
           <mxGeometry height="14" width="110" x="381" y="73" as="geometry" />
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-106" edge="1" parent="1" source="bWdlcIokxIQ1qA6HTHJr-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="bWdlcIokxIQ1qA6HTHJr-105">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-107" edge="1" parent="1" source="bWdlcIokxIQ1qA6HTHJr-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;fillColor=#76608a;strokeColor=#432D57;" target="bWdlcIokxIQ1qA6HTHJr-105">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="RL Model" vertex="1">
           <mxGeometry height="27" width="79" x="396" y="107" as="geometry" />
         </mxCell>
@@ -164,7 +158,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;" value="Reward&amp;nbsp; i&amp;amp;j" vertex="1">
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;" value="Reward" vertex="1">
           <mxGeometry height="30" width="89.5" x="264.75" y="472" as="geometry" />
         </mxCell>
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Grow" vertex="1">
@@ -187,14 +181,17 @@
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Adjust Buffer Pool" vertex="1">
           <mxGeometry height="30" width="147" x="82" y="324" as="geometry" />
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="" vertex="1">
-          <mxGeometry height="266" width="197" x="610" y="63" as="geometry" />
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tenant i" vertex="1">
+          <mxGeometry height="14" width="110" x="112" y="246" as="geometry" />
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Critic Network" vertex="1">
-          <mxGeometry height="60" width="148" x="637" y="216" as="geometry" />
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-113" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tenant i" vertex="1">
+          <mxGeometry height="14" width="110" x="112" y="354" as="geometry" />
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Actor Network" vertex="1">
-          <mxGeometry height="60" width="148" x="637" y="117" as="geometry" />
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tenant j" vertex="1">
+          <mxGeometry height="14" width="110" x="378.5" y="246" as="geometry" />
+        </mxCell>
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tenant j" vertex="1">
+          <mxGeometry height="14" width="110" x="401" y="353" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
