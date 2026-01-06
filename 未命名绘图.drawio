@@ -145,8 +145,8 @@
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-83" edge="1" parent="1" source="bWdlcIokxIQ1qA6HTHJr-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="bWdlcIokxIQ1qA6HTHJr-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="544" y="487" />
-              <mxPoint x="544" y="116" />
+              <mxPoint x="545" y="487" />
+              <mxPoint x="545" y="116" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -178,8 +178,8 @@
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;&lt;b&gt;·&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;·&lt;/b&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;·&lt;/b&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;·&lt;/b&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;·&lt;/b&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;·&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="269" y="104" as="geometry" />
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.Adjust Buffer Pool" vertex="1">
-          <mxGeometry height="30" width="147" x="100" y="324" as="geometry" />
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="2.Adjust Buffer Pool" vertex="1">
+          <mxGeometry height="30" width="147" x="105" y="324" as="geometry" />
         </mxCell>
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-112" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tenant i" vertex="1">
           <mxGeometry height="14" width="110" x="112" y="246" as="geometry" />
@@ -193,11 +193,11 @@
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-115" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tenant j" vertex="1">
           <mxGeometry height="14" width="110" x="401" y="354" as="geometry" />
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.Compute action base on state" vertex="1">
-          <mxGeometry height="30" width="147" x="225.5" y="192" as="geometry" />
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-116" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.Compute Action" vertex="1">
+          <mxGeometry height="30" width="179.5" x="216.5" y="215" as="geometry" />
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-118" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.collect reward for each tenant pair" vertex="1">
-          <mxGeometry height="30" width="153" x="155" y="445" as="geometry" />
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.Update RL Model" vertex="1">
+          <mxGeometry height="30" width="193" x="63" y="453" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
