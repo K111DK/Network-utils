@@ -185,7 +185,7 @@
           <mxGeometry height="30" width="60" x="269" y="104" as="geometry" />
         </mxCell>
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Adjust Buffer Pool" vertex="1">
-          <mxGeometry height="30" width="147" x="101" y="324" as="geometry" />
+          <mxGeometry height="30" width="147" x="82" y="324" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
