@@ -156,8 +156,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;" value="Reward" vertex="1">
-          <mxGeometry height="30" width="60" x="279.5" y="472" as="geometry" />
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=1;" value="Reward&amp;nbsp; i&amp;amp;j" vertex="1">
+          <mxGeometry height="30" width="89.5" x="264.75" y="472" as="geometry" />
         </mxCell>
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Grow" vertex="1">
           <mxGeometry height="30" width="60" x="134.5" y="216" as="geometry" />
@@ -167,6 +167,9 @@
         </mxCell>
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-88" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;&lt;b&gt;·&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;·&lt;/b&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;·&lt;/b&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;·&lt;/b&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;·&lt;/b&gt;&lt;b style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;·&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="269" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-92" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Adjust Buffer Pool" vertex="1">
+          <mxGeometry height="30" width="147" x="101" y="324" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
