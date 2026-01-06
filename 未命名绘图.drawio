@@ -190,6 +190,12 @@
         <mxCell id="bWdlcIokxIQ1qA6HTHJr-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="" vertex="1">
           <mxGeometry height="266" width="197" x="610" y="63" as="geometry" />
         </mxCell>
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-109" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Critic Network" vertex="1">
+          <mxGeometry height="60" width="148" x="637" y="216" as="geometry" />
+        </mxCell>
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Actor Network" vertex="1">
+          <mxGeometry height="60" width="148" x="637" y="117" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
