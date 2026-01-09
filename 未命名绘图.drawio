@@ -212,7 +212,19 @@
           <mxGeometry height="107" width="107" x="257.5" y="76.5" as="geometry" />
         </mxCell>
         <mxCell id="DLVCbBHM_wjP5Z3trK4j-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;fontFamily=Comic Sans MS;" value="RL Model" vertex="1">
-          <mxGeometry height="27" width="79" x="271" y="126" as="geometry" />
+          <mxGeometry height="27" width="79" x="270.5" y="121" as="geometry" />
+        </mxCell>
+        <mxCell id="DLVCbBHM_wjP5Z3trK4j-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" value="SLA Monitor" vertex="1">
+          <mxGeometry height="27" width="79" x="125.5" y="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DLVCbBHM_wjP5Z3trK4j-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" value="SLA Monitor" vertex="1">
+          <mxGeometry height="27" width="79" x="270.5" y="152" as="geometry" />
+        </mxCell>
+        <mxCell id="DLVCbBHM_wjP5Z3trK4j-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Comic Sans MS;" value="SLA Monitor" vertex="1">
+          <mxGeometry height="27" width="79" x="396" y="137.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DLVCbBHM_wjP5Z3trK4j-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="RL Agent" vertex="1">
+          <mxGeometry height="14" width="110" x="256" y="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
