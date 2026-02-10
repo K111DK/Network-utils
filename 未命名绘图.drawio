@@ -107,7 +107,7 @@
         </mxCell>
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-75" connectable="0" parent="D2Q-e-_nwa4aWlnCuRsk-72" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;labelBorderColor=none;" value="Reward" vertex="1">
           <mxGeometry relative="1" x="0.0689" as="geometry">
-            <mxPoint x="-20" y="-11" as="offset" />
+            <mxPoint x="-9" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontFamily=Comic Sans MS;" value="" vertex="1">
