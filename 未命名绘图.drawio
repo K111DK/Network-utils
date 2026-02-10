@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="307" width="609" x="41" y="110" as="geometry" />
+          <mxGeometry height="290" width="609" x="41" y="114" as="geometry" />
         </mxCell>
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-71" edge="1" parent="1" source="D2Q-e-_nwa4aWlnCuRsk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=1;fontFamily=Comic Sans MS;endArrow=classic;endFill=1;" target="D2Q-e-_nwa4aWlnCuRsk-69">
           <mxGeometry relative="1" as="geometry" />
@@ -66,9 +66,6 @@
         </mxCell>
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="Allocator" vertex="1">
           <mxGeometry height="14" width="110" x="471" y="131" as="geometry" />
-        </mxCell>
-        <mxCell id="D2Q-e-_nwa4aWlnCuRsk-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="Buffer Pool" vertex="1">
-          <mxGeometry height="14" width="110" x="615" y="19" as="geometry" />
         </mxCell>
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#020202;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="113" width="130" x="76.19" y="155" as="geometry" />
