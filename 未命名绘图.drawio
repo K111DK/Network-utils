@@ -29,8 +29,8 @@
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#020202;fontFamily=Comic Sans MS;" value="" vertex="1">
           <mxGeometry height="162" width="84" x="266" y="126.5" as="geometry" />
         </mxCell>
-        <mxCell id="bWdlcIokxIQ1qA6HTHJr-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="RL Agent" vertex="1">
-          <mxGeometry height="14" width="110" x="253.5" y="126.5" as="geometry" />
+        <mxCell id="bWdlcIokxIQ1qA6HTHJr-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="Agent Layer" vertex="1">
+          <mxGeometry height="14" width="110" x="253.5" y="131" as="geometry" />
         </mxCell>
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#020202;fontFamily=Comic Sans MS;" value="RL Model 2" vertex="1">
           <mxGeometry height="32" width="69" x="273.5" y="194" as="geometry" />
@@ -62,10 +62,10 @@
           <mxGeometry height="167" width="168" x="47" y="124" as="geometry" />
         </mxCell>
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="Monitor" vertex="1">
-          <mxGeometry height="14" width="110" x="82.69" y="129" as="geometry" />
+          <mxGeometry height="14" width="110" x="76.19" y="131" as="geometry" />
         </mxCell>
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="Allocator" vertex="1">
-          <mxGeometry height="14" width="110" x="487.4" y="129" as="geometry" />
+          <mxGeometry height="14" width="110" x="471" y="131" as="geometry" />
         </mxCell>
         <mxCell id="D2Q-e-_nwa4aWlnCuRsk-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="Buffer Pool" vertex="1">
           <mxGeometry height="14" width="110" x="615" y="19" as="geometry" />
